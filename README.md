@@ -2,6 +2,9 @@
 
 A lightweight, LLM-powered agronomic assistant that helps users analyze soil data and get expert recommendations for crop suitability and soil health improvements.
 
+## Demo
+https://youtu.be/K7sMYIsLOuY
+
 ## Overview
 
 SoilGPT Lite is a prototype that demonstrates the power of Retrieval-Augmented Generation (RAG) in agricultural applications. It allows users to upload soil data and ask natural language questions about crop suitability, soil health, and improvement strategies. The project showcases how LLM infrastructure can be integrated into agricultural workflows, providing a user-centric interface for soil analysis.

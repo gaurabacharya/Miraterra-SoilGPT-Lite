@@ -102,5 +102,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Inspired by Wärtsilä's use of RAG and LLM integrations in agronomy
+- Inspired by Miraterra's use of RAG and LLM integrations in agronomy
 - Built with modern web technologies and AI/ML tools
